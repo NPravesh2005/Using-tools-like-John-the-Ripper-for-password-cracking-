@@ -58,7 +58,21 @@ Cracked Passwords from Hash File
 
 <img width="798" height="264" alt="Screenshot 2025-10-03 141922" src="https://github.com/user-attachments/assets/d53594c6-79e7-4fd9-8f94-8f99c95f9544" />
 
+<img width="798" height="669" alt="Screenshot 2025-10-03 142222" src="https://github.com/user-attachments/assets/1f3a4101-3280-440c-b2ab-bef09dc3a48b" />
 
+<img width="650" height="313" alt="Screenshot 2025-10-03 142332" src="https://github.com/user-attachments/assets/ace0dd25-7175-40d7-a0da-93ae430b6988" />
+
+<img width="784" height="580" alt="Screenshot 2025-10-03 142359" src="https://github.com/user-attachments/assets/954db365-c275-4e13-9c30-e5eb055b82e1" />
+
+<img width="807" height="247" alt="Screenshot 2025-10-03 142507" src="https://github.com/user-attachments/assets/c69f3b27-df04-402a-94cc-6cff646f12c4" />
+
+<img width="599" height="77" alt="Screenshot 2025-10-03 142548" src="https://github.com/user-attachments/assets/0256c7ed-6352-4f93-afc3-74984f62eb85" />
+
+<img width="649" height="530" alt="Screenshot 2025-10-03 142757" src="https://github.com/user-attachments/assets/b999c4f0-dfbc-4c91-a3f0-089019ab8215" />
+
+<img width="803" height="420" alt="Screenshot 2025-10-03 143823" src="https://github.com/user-attachments/assets/88667b75-2e95-423b-a770-5144e3b52279" />
+
+<img width="801" height="123" alt="Screenshot 2025-10-03 143912" src="https://github.com/user-attachments/assets/32f39954-1c21-46f0-86e0-e2effd430b0b" />
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
